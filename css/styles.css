@@ -1,0 +1,13 @@
+p {color: pink;
+}
+
+#myspecialID1 {color:red
+}
+
+#myspecialID2 {font-family: Arial, Helvetica, sans-serif; font-size: 10px;}
+
+.redcolortext {font-size: 12; font-style: italic; color: red;    
+}
+
+p.redcolortext {font-style: inherit; color:violet; font-size: 8px; text-align: right;
+}
